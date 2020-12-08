@@ -1,3 +1,12 @@
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Privacy Policy" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:url" content="https://hdgamesdev.github.io/PrivacyPolicy/" />
+<meta property="og:site_name" content="PrivacyPolicy" />
+
+
 ## Privacy Policy
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
